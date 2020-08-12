@@ -1,5 +1,3 @@
-#include <array.au3>
-
 $url = 'enter the url of a recorded stream'
 $filename = @scriptdir & '\html.txt'
 inetget($url, $filename)
