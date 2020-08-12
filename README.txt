@@ -1,4 +1,4 @@
-autoit script to download DLive vods as mp4 using ffmpeg
+autoit script to download DLive vods as mp4 using ffmpeg using the stream url
 videos are downloaded into subfolders of the script directory
     (script / username / video)
     
