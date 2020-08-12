@@ -1,8 +1,9 @@
-autoit script for downloading recorded streams or 'vods' from DLive
+autoit script to download DLive vods as mp4 using ffmpeg
 videos are downloaded into subfolders of the script directory
     (script / username / broadcast / videos)
-the video quality is always highest quality
     
 instructions:
-  - change the $url value to the stream you want to download
-  - run
+    - ffmpeg installed
+    - ffmpeg path environment variable set
+    - set $url to the whatever stream you want
+    - run
